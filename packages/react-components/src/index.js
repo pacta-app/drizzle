@@ -2,6 +2,7 @@ import AccountData from "./AccountData.js";
 import ContractData from "./ContractData.js";
 import ContractForm from "./ContractForm.js";
 import LoadingContainer from "./LoadingContainer.js";
+import DynamicContract from "./DynamicContract.js";
 import AccountDataNew from "./new-context-api/AccountData";
 import ContractDataNew from "./new-context-api/ContractData";
 import ContractFormNew from "./new-context-api/ContractForm";
@@ -17,5 +18,6 @@ export {
   ContractData,
   ContractForm,
   LoadingContainer,
+  DynamicContract,
   newContextComponents,
 };

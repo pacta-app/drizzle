@@ -28,8 +28,8 @@ module.exports = {
     })
   ],
   externals: [
-    "@drizzle/store",
-    "@drizzle/react-plugin",
+    "@pacta-app/store",
+    "@pacta-app/react-plugin",
     "prop-types",
     "react",
     "redux",

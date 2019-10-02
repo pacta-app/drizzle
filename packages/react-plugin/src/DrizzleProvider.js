@@ -1,6 +1,6 @@
 import { Component, Children } from 'react'
 import PropTypes from 'prop-types'
-import { Drizzle, generateStore } from '@drizzle/store'
+import { Drizzle, generateStore } from '@pacta-app/store'
 
 class DrizzleProvider extends Component {
   static propTypes = {
